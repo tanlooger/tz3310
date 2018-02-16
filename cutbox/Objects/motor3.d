@@ -1,0 +1,16 @@
+.\objects\motor3.o: User\motor3.c
+.\objects\motor3.o: User\motor3.h
+.\objects\motor3.o: .\CMSIS\stm32f10x.h
+.\objects\motor3.o: .\CMSIS\core_cm3.h
+.\objects\motor3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motor3.o: .\CMSIS\system_stm32f10x.h
+.\objects\motor3.o: .\User\stm32f10x_conf.h
+.\objects\motor3.o: .\Lib\inc\stm32f10x_dbgmcu.h
+.\objects\motor3.o: .\CMSIS\stm32f10x.h
+.\objects\motor3.o: .\Lib\inc\stm32f10x_exti.h
+.\objects\motor3.o: .\Lib\inc\stm32f10x_gpio.h
+.\objects\motor3.o: .\Lib\inc\stm32f10x_iwdg.h
+.\objects\motor3.o: .\Lib\inc\stm32f10x_rcc.h
+.\objects\motor3.o: .\Lib\inc\stm32f10x_tim.h
+.\objects\motor3.o: .\Lib\inc\stm32f10x_usart.h
+.\objects\motor3.o: .\Lib\inc\misc.h

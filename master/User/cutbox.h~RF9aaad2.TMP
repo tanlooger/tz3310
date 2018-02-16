@@ -1,0 +1,24 @@
+#ifndef __USER_CUTBOX_H__
+#define __USER_CUTBOX_H__
+#include "stm32f10x.h"
+
+
+
+void cutbox_command(uint8_t target, uint8_t command);
+
+
+
+
+
+uint8_t cutbox_number(uint8_t target, uint8_t command);
+
+
+
+void send_to_cutbox(uint8_t data[], uint8_t length);
+
+
+void check_cutbox(uint8_t target);
+
+
+void send_cutbox_msg_to_PC(uint8_t cutbox_target, uint8_t motor_status, uint8_t relay_status);
+#endif

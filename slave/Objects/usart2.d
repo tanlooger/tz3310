@@ -1,0 +1,17 @@
+.\objects\usart2.o: User\usart2.c
+.\objects\usart2.o: User\usart2.h
+.\objects\usart2.o: .\CMSIS\stm32f10x.h
+.\objects\usart2.o: .\CMSIS\core_cm3.h
+.\objects\usart2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart2.o: .\CMSIS\system_stm32f10x.h
+.\objects\usart2.o: .\User\stm32f10x_conf.h
+.\objects\usart2.o: .\Lib\inc\stm32f10x_dbgmcu.h
+.\objects\usart2.o: .\CMSIS\stm32f10x.h
+.\objects\usart2.o: .\Lib\inc\stm32f10x_exti.h
+.\objects\usart2.o: .\Lib\inc\stm32f10x_gpio.h
+.\objects\usart2.o: .\Lib\inc\stm32f10x_iwdg.h
+.\objects\usart2.o: .\Lib\inc\stm32f10x_rcc.h
+.\objects\usart2.o: .\Lib\inc\stm32f10x_tim.h
+.\objects\usart2.o: .\Lib\inc\stm32f10x_usart.h
+.\objects\usart2.o: .\Lib\inc\misc.h
+.\objects\usart2.o: User\stm32.h
